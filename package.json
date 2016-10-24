@@ -1,0 +1,12 @@
+{
+  "name": "webcrawling-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "fs": "^0.0.1-security",
+    "jsonfile": "^2.4.0",
+    "request": "^2.75.0"
+  }
+}
